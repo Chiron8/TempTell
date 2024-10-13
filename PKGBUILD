@@ -1,10 +1,10 @@
-# Maintainer: YChiron H
+# Maintainer: Your Name
 pkgname=TempTell
 pkgver=1.0
 pkgrel=1
 pkgdesc="A script to display CPU temperature with customizable options"
 arch=('any')
-url="https://github.com/Chiron8/TempTell" # Replace with your GitHub URL
+url="https://github.com/YourUsername/TempTell" # Replace with your GitHub URL
 license=('MIT')
 depends=('lm_sensors')
 source=("cpu-temp.sh" "LICENSE" "README.md")
